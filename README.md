@@ -1,4 +1,4 @@
-# OuterTune
+# OpenTune
 
 <img src="./assets/outertune.webp" height="88" alt="OuterTune app icon">
 
