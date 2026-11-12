@@ -14,4 +14,4 @@ A Material 3 music player for Android - My Favorite!
 ## My OpenTune
 This is my custom version of OpenTune music player.
 
-Built with ❤️ by me
+Built with ❤️ by me 
